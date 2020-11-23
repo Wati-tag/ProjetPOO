@@ -1,6 +1,6 @@
 #include <iostream>
 
-class stats{
+class stat_gest{
 public :
     void median_basket();
     void earned_money();
@@ -9,6 +9,6 @@ public :
     void ten_more_sold();
     void ten_less_sold();
     void com_value_stock();
-    void buying_value_stock();
+    void buy_value_stock();
     void com_value_var();
 };

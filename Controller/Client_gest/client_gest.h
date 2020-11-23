@@ -1,6 +1,6 @@
 #include <iostream>
 
-class db_client{
+class client_gest{
 public :
     void create_client();
     void modify_client();

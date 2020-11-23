@@ -1,6 +1,6 @@
 #include <iostream>
 
-class db_employee{
+class employee_gest{
 public :
     void create_employee();
     void modify_employee();

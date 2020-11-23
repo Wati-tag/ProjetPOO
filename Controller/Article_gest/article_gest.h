@@ -1,6 +1,6 @@
 #include <iostream>
 
-class db_articles{
+class article_gest{
 public :
     void create_article();
     void modify_article();
